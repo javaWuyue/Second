@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gitStudy" />
+        <module name="microserviceconsumermovie" />
         <module name="microservicediscoveryeureka" />
+        <module name="microservicediscoveryeurekaha" />
         <module name="microserviceprovideruser" />
         <module name="microservicesimpleconsumermovie" />
       </profile>

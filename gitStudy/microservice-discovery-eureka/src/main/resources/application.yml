@@ -8,3 +8,8 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://localhost:8761/eureka/
+spring:
+  security:
+    user:
+      name: wuyue
+      password: 233
