@@ -8,8 +8,14 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://localhost:8761/eureka/
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 6000
+  instance:
+    lease-renewal-interval-in-seconds: 5
 spring:
   security:
     user:
       name: wuyue
       password: 233
+

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gitStudy" />
         <module name="microserviceconsumermovie" />
+        <module name="microserviceconsumermoviefeign" />
         <module name="microservicediscoveryeureka" />
         <module name="microservicediscoveryeurekaha" />
         <module name="microserviceprovideruser" />
